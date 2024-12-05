@@ -1,0 +1,53 @@
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Static libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Dynamic/Shared libraries
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug and core files
+*.dSYM/
+*.stackdump
+*.core
+
+# Build directories (if any)
+build/
+dist/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# Generated files (if using autotools)
+Makefile.in
+aclocal.m4
+autom4te.cache/
+compile
+config.log
+config.status
+configure
+depcomp
+install-sh
+missing

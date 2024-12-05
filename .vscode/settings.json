@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "string.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/duncantasker/vscode-workspace/Systems II/prac2",
+            "binaryPath": "/Users/duncantasker/vscode-workspace/Systems II/prac2/tsh",
+            "binaryArgs": []
+        }
+    ]
+}
